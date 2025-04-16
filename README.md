@@ -23,10 +23,17 @@ Sarah spent the whole night listening and learning from the characters, promisin
 | Animals   |   In the book     |
 
 
-PM should create a repository 'S25Project' to write a README.md file, which should be written in English. (Collaboration). You can have more than one file as long as they are connected to the main README.md file (e.g., hyperlinked)
 
-This lesson plan is the first draft, so it doesn't need to be complete. 
 
-Include: Lesson goals (as clear as possible) and procedure, App description step by step (from teacher's perspective + students' perspective) - what teachers do / what learners do when/while using this application.
+단어장 만들기
+단어 퀴즈
+playphrase
+ahaslide
+ishock
+gtts 
 
-You will be updating this lesson plan in our later session after midterm.
+수업 목표
+수업 대상
+단계에 따른 앱 설명(선생님 입장, 학생 입장) + 어떻게 사용하는지 설명
+
+
