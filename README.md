@@ -60,11 +60,11 @@ Sarah spent the whole night listening and learning from the characters, promisin
 5. How can we make up for those problems?
 ### Passage(Sentece be sentence TTS app)
 1. What is this app about?
-2. How do we use this app in class.
-This app is deployed on HuggingFace, so all you need is to simply access with the QR code.
-You can hear the passage sentence by sentence, as much as you want. 
-You may convert the speed of the speech: original, 1.5, 2, or 0.5. 
-You can go on or go back using the two triangle-shaped button below.
+2. How do we use this app in class.  
+This app is deployed on HuggingFace, so all you need is to simply access with the QR code.  
+You can hear the passage sentence by sentence, as much as you want.   
+You may convert the speed of the speech: original, 1.5, 2, or 0.5.   
+You can go on or go back using the two triangle-shaped button below.  
 
 3. Advantage of this app?
 4. Disadvantage or predictable problems of this app?
