@@ -63,8 +63,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 - This it a TTS app that reads one sentence by one from the passage.
 
 2. How do we use this app in class.  
-- This app is deployed on HuggingFace, so all you need is to simply access with the URL below.  
-- [Passage](https://huggingface.co/spaces/KY7437/Passage)
+- This app is deployed on HuggingFace, so all you need is to simply access with the URL: [Passage](https://huggingface.co/spaces/KY7437/Passage)
 - You can hear the passage sentence by sentence.    
 - You can go on or go back using the two triangle-shaped button below.  
 
