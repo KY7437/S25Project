@@ -40,12 +40,38 @@ Sarah spent the whole night listening and learning from the characters, promisin
 5. How can we make up for those problems?
 
 ## During the lecture
-### Quizzlet
+### Quizlet
 1. What is this app about?
+- This is a web-flashcard site, and it is a very efficient tool for memorizing words and phrases.   
+- It offers you not only flashcards, but also other modes: exercise, test, and even game systems.   
+
 2. How do we use this app in class?
+- Teachers can make a class and lists of words or phrases within the website.   
+- When the list is completed, the teacher can share its url link to students.   
+- Students can access to the class and the lists uploaded in the class.   
+- Students can use all the functions Quizlet offers.   
+
 3. Advantage of this app?
+- Neither the teacher nor the students have to pay extra money for just using Quizlet.   
+- Anyone who has received the URL link can access to the class.  
+- With teacher's account, the teacher can trace the students achievement.  
+- We can use any vocabulary lists uploaded by other users. 
+- We can use many kinds of lists; made by textbook publishers, or consisted of word-list books in the market(for free). 
+
 4. Disadvantage or predictable problems of this app?
+- There are more functions that we cannot use by using only free-version. 
+- Ads.
+- We cannot trust 100 per cent those unknown uploaders. 
+- AI withing Quizlet helps the teacher not to enter wrong definitions, but sometimes there are wrong information like spelling error, ungrammatical sentence, or unpropriate sample sentences. 
+- There is no report function that students can use; if there is any problem in it, students should tell their teacher. They cannot ask the original uploader if that list is made by someone else, not their teacher. 
+- Quizlet is an online website, so if there is no internet connection, students cannot access to it. 
+
 5. How can we make up for those problems?
+- Quizlet has the function to make online list into a pdf file, so if there is no internet connection, we can give students printed ones. 
+- It is best for teachers to make their word/phrase lists by themselves, and let students comment in any way. 
+- If is helpful to check many dictionaries like Oxford Learner's Dictionary, Longman Dictionary, and Cambridge Dictionary. 
+
+
 ### PlayPhrase
 1. What is this app about?
 2. How do we use this app in class?
