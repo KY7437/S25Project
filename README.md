@@ -8,7 +8,7 @@
 # Lesson Procedure
 Middle School Freshmen
 
-# The Midnight Library
+# Passage: The Midnight Library
 
 <figure>
   <img src="https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png" height="500", width="500">
@@ -30,11 +30,50 @@ Sarah spent the whole night listening and learning from the characters, promisin
 | Animals   |   In the book     |
 
 
+# Digital Apps
+## Before the lecture
+### Word Cloud
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
+
+## During the lecture
+### Quizzlet
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
+### PlayPhrase
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
+### iStock(AI Video Generator)
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
+### Passage(Sentece be sentence TTS app)
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
+
+## After the lecture
+### ZEP: online metaverse, multiple quizzes about words, grammars, and passage comprehension
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
 
 
-수업 목표 : 단어, 문법을 학습하고 텍스트를 이해할 수 있다(내용 파악/줄거리, 등장인물 등).
-수업 대상 : 중1
-단계에 따른 앱 설명(선생님 입장, 학생 입장) + 어떻게 사용하는지 설명
 
 시작 전
 (예습)  교사가 직전에 제시>워드클라우드로 모르는 단어, 새로운 단어 파악 (+유의어 사전)
