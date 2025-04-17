@@ -60,7 +60,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 5. How can we make up for those problems?
 ### Passage(Sentece be sentence TTS app)
 1. What is this app about?
-
+- This it a TTS app that reads one sentence by one from the passage.
 
 2. How do we use this app in class.  
 - This app is deployed on HuggingFace, so all you need is to simply access with the QR code.  
