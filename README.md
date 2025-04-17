@@ -2,8 +2,11 @@
 2025 group 1 project repository
 
 # Lesson Goal
-Students learn new words, phrases, and grammars.
-Student can understand the passage. 
+1. Students learn new words, phrases, and grammars.
+2. Student can understand the passage. 
+
+# Lesson Procedure
+Middle School Freshmen
 
 # The Midnight Library
 
