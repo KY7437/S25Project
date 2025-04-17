@@ -1,6 +1,10 @@
 # S25Project
 2025 group 1 project repository
 
+# Lesson Goal
+Students learn new words, phrases, and grammars.
+Student can understand the passage. 
+
 # The Midnight Library
 
 <figure>
