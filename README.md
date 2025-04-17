@@ -60,15 +60,27 @@ Sarah spent the whole night listening and learning from the characters, promisin
 5. How can we make up for those problems?
 ### Passage(Sentece be sentence TTS app)
 1. What is this app about?
+
+
 2. How do we use this app in class.  
 This app is deployed on HuggingFace, so all you need is to simply access with the QR code.  
-You can hear the passage sentence by sentence, as much as you want.   
-You may convert the speed of the speech: original, 1.5, 2, or 0.5.   
+You can hear the passage sentence by sentence.    
 You can go on or go back using the two triangle-shaped button below.  
 
 3. Advantage of this app?
+You can access this app through internet; students can use this tool wherever and whenever.   
+You can hear the passage sentence by sentence, as many times as you want.  
+You can convert the speed of the speech: 0.5, original, 1.5 and 2.0.  
+
 4. Disadvantage or predictable problems of this app?
+This app offer only American accent English. 
+If students cannot use internet, they are inavailable to access this app. 
+Since this application is a TTS program, it may not be that effective to make sure for students to understand or comprehense the passage. 
+As this is just a TTS app, teachers cannot check who accessed or who didn't.   
+
 5. How can we make up for those problems?
+When we tried to add more accents using google-cloud-texttospeech, it only resulted in error. So, if we really need any other accents like British, Austrailian, and Indian, we should use other applications or websites on online pages, such as ElevenLabs.   
+We can add videos or pictures to make it easier to understand. 
 
 ## After the lecture
 ### ZEP: online metaverse, multiple quizzes about words, grammars, and passage comprehension
