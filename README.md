@@ -94,8 +94,15 @@ Sarah spent the whole night listening and learning from the characters, promisin
 
 2. What teachers/students do while using the app?
      - Teacher's perspective
-       * 
+  * Teachers design grammar quiz questions related to the reading passage.
+  * Guide students on how to use the app before the quiz starts.
+  * Teachers share the quiz link content at the right time during the lesson.
+  * Teachers check that the quiz content matches students' level and lesson goals.
+        
      - Student's perspective
+  * Type their answers using correct spelling and grammar.
+  * Use feedback to check their understanding.
+  * Carefully read and understand each question before answering
 ## After the session
 ### ZEP
 1. App Discription
