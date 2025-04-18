@@ -70,13 +70,30 @@ Sarah spent the whole night listening and learning from the characters, promisin
 ### Grammar Adventure
 1. App Discription
      - Teacher's perspective
-       * The app helps check students’ understanding of grammar points from the lesson easily.
-       * Automated feedback reduces the teacher’s explanation time.
-       * It encourages active student participation during class.
-       * It provides quick way to check who is following along or needs support.
+   ### ✅ Advantages
+ * The app helps check students’ understanding of grammar points from the lesson easily.
+ * Automated feedback reduces the teacher’s explanation time.
+ * It encourages active student participation during class.
+ * It provides quick way to check who is following along or needs support.
+  
+   ### ❌ Disadvantages
+ * Teachers can’t easily track or save students’ individual responses.
+ * Technical issues(like Wi-Fi or tablet problems) can interrupt the flow of class.
+ * It may be hard to assist every student at the same time during the quiz. 
+
      - Student's perspective
+   ### ✅ Advantages
+ * Students receive immediate feedback, which helps them understand grammar more quickly.
+ * The quiz format feels more like a game, making learning more fun and less boring.
+ * They can work at their own pace without pressure.
+
+   ### ❌ Disadvantages
+ * Students can’t edit or retry their answers once submitted, which can be frustrating.
+ * Typing answers can be difficult or slow for some students.
+ * Some may not fully understand why their answers were incorrect due to limited explanation. 
 2. What teachers/students do while using the app?
      - Teacher's perspective
+       * 
      - Student's perspective
 ## After the session
 ### ZEP
