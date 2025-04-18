@@ -70,7 +70,10 @@ Sarah spent the whole night listening and learning from the characters, promisin
 ### Grammar Adventure
 1. App Discription
      - Teacher's perspective
-       * * The app helps check students’ understanding of grammar points from the lesson easily.
+       * The app helps check students’ understanding of grammar points from the lesson easily.
+       * Automated feedback reduces the teacher’s explanation time.
+       * It encourages active student participation during class.
+       * It provides quick way to check who is following along or needs support.
      - Student's perspective
 2. What teachers/students do while using the app?
      - Teacher's perspective
