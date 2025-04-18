@@ -60,7 +60,14 @@ Sarah spent the whole night listening and learning from the characters, promisin
 2. What teachers/students do while using the app?
      - Teacher's perspective
      - Student's perspective
-     - ### PlayPhrase
+### PlayPhrase
+1. App Discription
+     - Teacher's perspective
+     - Student's perspective
+2. What teachers/students do while using the app?
+     - Teacher's perspective
+     - Student's perspective
+### Grammar Adventure
 1. App Discription
      - Teacher's perspective
      - Student's perspective
