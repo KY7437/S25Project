@@ -46,7 +46,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
      - Teacher's perspective
      - Student's perspective
 ## During the session
-### PlayPhrase
+### Quizlet
 1. App Discription
      - Teacher's perspective
      - Student's perspective
@@ -60,7 +60,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 2. What teachers/students do while using the app?
      - Teacher's perspective
      - Student's perspective
-### Quizlet
+     - ### PlayPhrase
 1. App Discription
      - Teacher's perspective
      - Student's perspective
