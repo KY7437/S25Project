@@ -39,9 +39,39 @@ Sarah spent the whole night listening and learning from the characters, promisin
      - Teacher's perspective
      - Student's perspective
 ### Word Dictionary
+1. App Discription
+     - Teacher's perspective
+     - Student's perspective
+2. What teachers/students do while using the app?
+     - Teacher's perspective
+     - Student's perspective
 ## During the session
 ### PlayPhrase
+1. App Discription
+     - Teacher's perspective
+     - Student's perspective
+2. What teachers/students do while using the app?
+     - Teacher's perspective
+     - Student's perspective
 ### TTS
+1. App Discription
+     - Teacher's perspective
+     - Student's perspective
+2. What teachers/students do while using the app?
+     - Teacher's perspective
+     - Student's perspective
 ### Quizlet
+1. App Discription
+     - Teacher's perspective
+     - Student's perspective
+2. What teachers/students do while using the app?
+     - Teacher's perspective
+     - Student's perspective
 ## After the session
 ### ZEP
+1. App Discription
+     - Teacher's perspective
+     - Student's perspective
+2. What teachers/students do while using the app?
+     - Teacher's perspective
+     - Student's perspective
