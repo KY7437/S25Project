@@ -109,6 +109,13 @@ Sarah spent the whole night listening and learning from the characters, promisin
 - We can add videos or pictures to make it easier to understand. 
 
 ## After the lecture
+### Grammar Adventure
+1. What is this app about?
+2. How do we use this app in class?
+3. Advantage of this app?
+4. Disadvantage or predictable problems of this app?
+5. How can we make up for those problems?
+
 ### ZEP: online metaverse, multiple quizzes about words, grammars, and passage comprehension
 1. What is this app about?
 2. How do we use this app in class?
