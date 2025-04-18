@@ -33,7 +33,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 ## Before the seession
 ### Word Cloud
 1. App Discription
-     - Teacher's perspective
+     - Teacher's perspective       
      - Student's perspective
 2. What teachers/students do while using the app?
      - Teacher's perspective
@@ -70,6 +70,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 ### Grammar Adventure
 1. App Discription
      - Teacher's perspective
+       * * The app helps check students’ understanding of grammar points from the lesson easily.
      - Student's perspective
 2. What teachers/students do while using the app?
      - Teacher's perspective
