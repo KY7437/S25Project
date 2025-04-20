@@ -33,18 +33,49 @@ Sarah spent the whole night listening and learning from the characters, promisin
 ## Before the seession
 ### Word Cloud
 1. App Discription
-     - Teacher's perspective       
+     - Teacher's perspective
+       ✅️
+       - The teacher helps students understand the main topic of the passage.
+       - The teacher helps students learn the vocabulary needed to understand the text.
+       ❌️
+       - Several words must be written down in advance to make a picture, and the meaning of each picture element must be explained in advance before class.
      - Student's perspective
+       ✅️
+       - Before studying the passage in class, students can recognize the frequency of words related to key topics or themes in the text.
+       - During the lesson, students can more easily understand the meaning of the words and the overall topic of the text.
+       ❌️
+       - The picture showing the composition of the word may be complicated, making it difficult for students to recognize it.
 2. What teachers/students do while using the app?
      - Teacher's perspective
+       - The teacher should explain to students what the size of each word represents.
+       - The teacher should read each word aloud to the students, correcting their pronunciation or explaining its meaning.
      - Student's perspective
+       - Students should try to guess the meaning or main topic of the text by looking at the words shown in the image.
+
 ### Word Dictionary
 1. App Discription
      - Teacher's perspective
+       ✅️
+       - It allows the teacher to easily create a list of vocabulary words to teach in class.
+       - It makes it easier for the teacher to provide example sentences or English definitions during the lesson.
+       ❌️
+       - The teacher’s technical skills become more important, and they need to prepare code in advance during their personal time.
+       - The teacher should go through each passage and anticipate which words students might struggle with.
+
      - Student's perspective
+       ✅️
+       - Students can better understand the meaning of unfamiliar words by looking at example sentences beyond those used in the passage.
+       - Even outside of class, students can use the app to study unfamiliar words that come up while reviewing the textbook passages.
+       ❌️
+       - Students cannot study words or example sentences through the app unless the teacher has pre-set them in advance.
+       - Students may experience that the convenience of the lesson depends on the teacher's digital literacy or technical skills.
 2. What teachers/students do while using the app?
      - Teacher's perspective
+       - The teacher selects potentially difficult words from the textbook passages in advance and creates a vocabulary list.
+       - The teacher writes code and creates a dictionary that includes the meaning and English definitions of each word.
      - Student's perspective
+       - Students enter unfamiliar words they encounter while studying the textbook passages into the app provided by the teacher.
+       - Students study the meanings of the words by reviewing the English definitions and example sentences presented in the app.
 ## During the session
 ### Quizlet
 1. App Discription
