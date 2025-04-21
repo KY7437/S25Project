@@ -75,6 +75,8 @@ Sarah spent the whole night listening and learning from the characters, promisin
      - Student's perspective
        - Students enter unfamiliar words they encounter while studying the textbook passages into the app provided by the teacher.
        - Students study the meanings of the words by reviewing the English definitions and example sentences presented in the app.
+      
+---
 ## During the session
 ### Quizlet
 1. App Discription
@@ -113,31 +115,33 @@ Sarah spent the whole night listening and learning from the characters, promisin
      - Teacher's perspective   
        ✅️  
        - Teachers do not need to read out loud the textbook passages.
-       - 
+       - Teachers can give students more accurate accent and intonation by using text-to-speach app. 
       ❌️  
-       - 
-     - Student's perspective   
+       - Teachers cannot check whether students listened or not.
+       - To use other passages, teachers have to change the code(app.py file). 
+    - Student's perspective   
      ✅️  
-       - 
+       - Students can listen how the accent or intonation within the passages are.
+       - Students can access to the tool as long as they are online(huggingface)
+       - Students can choose the most fittable speech rapid from 0.5 to 2.0(1.0 is the original speed).
+       - Students can listen as much as they want to anywhere, anytime. 
       ❌️  
-       - 
+       - Students cannot choose other types of accents like British, Austrailian, or Indian.
+       - Students cannot edit the content of the TTS passages. 
 2. What teachers/students do while using the app?
      - Teacher's perspective
-     ✅️  
-       - 
-      ❌️  
-       - 
+       - Give a url link or QR code to students to access the app.
+       - Check before sharing if the passage is contained properly.
      - Student's perspective
-     ✅️  
-       - 
-      ❌️  
-       - 
+       - Listen to the passage sentence by sentence, with the proper speech speed.
+       - They may shadowing after it, for practicing their pronunciation, accent, and intonation.
+         
 ### PlayPhrase
-### 1. App Description
+#### 1. App Description
 
 ---
 
-### ✅ Advantages (Teacher’s Perspective)
+#### ✅ Advantages (Teacher’s Perspective)
 
 - The app is easy to use, which helps reduce lesson preparation time.  
 - Teachers can demonstrate how specific grammar points are used in real-life situations through a variety of authentic sentences.  
@@ -146,7 +150,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 
 ---
 
-### ❌ Disadvantages (Teacher’s Perspective)
+#### ❌ Disadvantages (Teacher’s Perspective)
 
 - Because the clips are short, there may be a lack of context, making it harder to understand the full meaning.  
 - Some content may include inappropriate language (e.g., slang, adult content), so teachers need to carefully select clips for classroom use.  
@@ -154,7 +158,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 
 ---
 
-### ✅ Advantages (Student’s Perspective)
+#### ✅ Advantages (Student’s Perspective)
 
 - Students can search for expressions they’re interested in and explore various examples, encouraging self-directed learning.  
 - Learning with familiar drama/movie clips increases motivation and helps students retain information better.  
@@ -162,7 +166,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 
 ---
 
-### ❌ Disadvantages (Student’s Perspective)
+#### ❌ Disadvantages (Student’s Perspective)
 
 - Without full context or background knowledge, some scenes can be hard to understand.  
 - The clips may contain slang, informal speech, or grammatically incorrect sentences, which can cause confusion.  
@@ -170,7 +174,7 @@ Sarah spent the whole night listening and learning from the characters, promisin
 
 ---
 
-### What do teachers/students do while using the app?
+#### What do teachers/students do while using the app?
 
 **Teacher’s Perspective**
 
@@ -220,6 +224,8 @@ Sarah spent the whole night listening and learning from the characters, promisin
   * Type their answers using correct spelling and grammar.
   * Use feedback to check their understanding.
   * Carefully read and understand each question before answering
+
+---
 ## After the session
 ### ZEP
 ### 1. App Description
