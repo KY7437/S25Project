@@ -80,22 +80,27 @@ Sarah spent the whole night listening and learning from the characters, promisin
 1. App Discription
      - Teacher's perspective
        ✅️  
-       - 
+       - It allows teachers to make an online classroom within the app so that they can see their studnet's achivement.
+       - The teachers can give any word-list materials to their student by adding it to the classroom.
+       - The teachres can take more materials from online archaive, which are made by other users of the app. 
       ❌️  
-       - 
+       - The teachers have to make the list according to premade form.
+       - If the teachers use material which are made by other unknown, unprofessional users, the material can be imperfect or low quality. 
      - Student's perspective
-     ✅️  
-       - 
+      ✅️  
+       - Students can be added to the class by teachers so that they can get word lists which are proper to catch up their lessons.
+       - Studnets also can take other materials from online which made by other users.
+       - Studnets can use not only the flashcard function; they are also allowed to use 
       ❌️  
        - 
 2. What teachers/students do while using the app?
      - Teacher's perspective
-    ✅️  
+      ✅️  
        - 
       ❌️  
        - 
      - Student's perspective
-    ✅️  
+      ✅️  
        - 
       ❌️  
        - 
@@ -113,12 +118,12 @@ Sarah spent the whole night listening and learning from the characters, promisin
        - 
 2. What teachers/students do while using the app?
      - Teacher's perspective
-    ✅️  
+     ✅️  
        - 
       ❌️  
        - 
      - Student's perspective
-    ✅️  
+     ✅️  
        - 
       ❌️  
        - 
