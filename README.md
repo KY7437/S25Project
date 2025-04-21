@@ -134,12 +134,57 @@ Sarah spent the whole night listening and learning from the characters, promisin
       ❌️  
        - 
 ### PlayPhrase
-1. App Discription
-     - Teacher's perspective
-     - Student's perspective
-2. What teachers/students do while using the app?
-     - Teacher's perspective
-     - Student's perspective
+### 1. App Description
+
+---
+
+### ✅ Advantages (Teacher’s Perspective)
+
+- The app is easy to use, which helps reduce lesson preparation time.  
+- Teachers can demonstrate how specific grammar points are used in real-life situations through a variety of authentic sentences.  
+- Including scenes from dramas and movies helps capture students’ attention and interest.  
+- Students are naturally exposed to different accents and real pronunciation (e.g., American, British), which improves listening and pronunciation skills.  
+
+---
+
+### ❌ Disadvantages (Teacher’s Perspective)
+
+- Because the clips are short, there may be a lack of context, making it harder to understand the full meaning.  
+- Some content may include inappropriate language (e.g., slang, adult content), so teachers need to carefully select clips for classroom use.  
+- Server issues or technical glitches may interrupt the flow of the lesson.  
+
+---
+
+### ✅ Advantages (Student’s Perspective)
+
+- Students can search for expressions they’re interested in and explore various examples, encouraging self-directed learning.  
+- Learning with familiar drama/movie clips increases motivation and helps students retain information better.  
+- They are exposed to real-life English rather than textbook language, making it more practical and relevant.  
+
+---
+
+### ❌ Disadvantages (Student’s Perspective)
+
+- Without full context or background knowledge, some scenes can be hard to understand.  
+- The clips may contain slang, informal speech, or grammatically incorrect sentences, which can cause confusion.  
+- Some functions (e.g., subtitle control, repeat play) are limited, which can reduce its effectiveness as a learning tool.  
+
+---
+
+### What do teachers/students do while using the app?
+
+**Teacher’s Perspective**
+
+- Select a grammar point from a text to focus on during the lesson.  
+- Introduce how to use the app so students can continue learning independently outside of class.  
+- Listen to the sample sentences and model the pronunciation and usage for the class.  
+- Play multiple example clips to help students become familiar with the grammar through repetition.  
+
+**Student’s Perspective**
+
+- Observe how the target grammar is used in different real-life situations.  
+- Select and memorize favorite example sentences for review and practice.  
+
 ### Grammar Adventure
 1. App Discription
      - Teacher's perspective
@@ -178,9 +223,60 @@ Sarah spent the whole night listening and learning from the characters, promisin
   * Carefully read and understand each question before answering
 ## After the session
 ### ZEP
-1. App Discription
-     - Teacher's perspective
-     - Student's perspective
-2. What teachers/students do while using the app?
-     - Teacher's perspective
-     - Student's perspective
+### 1. App Description
+
+---
+
+### ✅ Advantages for Teachers
+
+- Students can move around and interact freely, which promotes active learning through real-time feedback and group discussions.  
+- Teachers can customize the virtual environment to suit their lesson goals (e.g., classrooms, quiz rooms, presentation halls, breakout spaces).  
+- Even in remote settings, ZEP enables students to engage in meaningful group work similar to in-person learning.  
+- Teachers can observe where students are and what they’re doing in real time, helping to keep track of participation.  
+
+---
+
+### ❌ Disadvantages for Teachers
+
+- Creating and customizing virtual spaces can take time and effort, especially at the beginning.  
+- Connection problems, device compatibility, or software glitches may prevent some students from joining smoothly.  
+- Without facial expressions and body language, it can be difficult to gauge students’ reactions or engagement.  
+- The open, playful nature of the platform may lead students to stray off-topic without proper guidance.  
+
+---
+
+### ✅ Advantages for Students
+
+- Students can talk to peers in a more relaxed environment, which helps reduce anxiety and improves language practice.  
+- Game-like features such as avatars, emotions, and customizable spaces increase motivation and immersion.  
+- With quiz rooms, discussion areas, and presentation zones, students can engage in multiple formats that foster both independence and teamwork.  
+- Being represented by an avatar helps shy students participate more actively without the fear of public speaking.  
+
+---
+
+### ❌ Disadvantages for Students
+
+- Students with low-performance devices or unstable internet connections may struggle to participate smoothly.  
+- The freedom to move and interact can lead to off-topic behavior or loss of focus if not managed properly.  
+- Lack of facial cues and gestures may reduce the effectiveness of communication or lead to misunderstandings.  
+- It may take time for students to get used to the controls and navigation, especially if they’re not familiar with virtual platforms.  
+
+---
+
+### What do teachers/students do while using the app?
+
+**Teachers’ Perspective**
+
+- Create and customize virtual spaces such as classrooms, discussion zones, and quiz areas to fit the lesson objectives.  
+- Guide students through activities by giving instructions, assigning group tasks, and setting discussion topics.  
+- Observe and monitor students’ participation by checking where they are in the virtual space and listening in on conversations.  
+- Facilitate group work and discussions, moving between groups to answer questions and provide feedback.  
+- Manage classroom behavior by reminding students to stay on task and helping those who are lost or distracted.  
+
+**Students’ Perspective**
+
+- Enter different rooms or zones to participate in group discussions, presentations, or quizzes.  
+- Collaborate with peers by talking, sharing ideas, and completing tasks together in a more relaxed, game-like setting.  
+- Explore the space and move avatars, which adds fun and helps them feel more engaged in the activity.  
+- Ask questions or get help by going to the teacher’s location or sending messages.  
+- Practice communication skills in a low-pressure environment where they feel less nervous about making mistakes.  
