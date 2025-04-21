@@ -100,6 +100,15 @@ Sarah spent the whole night listening and learning from the characters, promisin
        - Though most of the functions are free to use, students have to make their own account on Quizlet.
 2. What teachers/students do while using the app?
      - Teacher's perspective
+       - Teachers can put students in one or separted classes where the materials are ready to use (or will be ready soon).
+       - Teachers should upload the list that they want students to study or memorize.
+       - After sharing the link or QR codes, teachers can see how student did their study so far, in real time.
+     - Student's perspective
+       - Students can recieve selected word list from their teachers through the online classroom.
+       - Students can use the most proper way to memorize those words by choosing one of 6 modes Quizlet offers (however, two of them are now need to be paid)
+       - By using 'Match' function, they can play games with their friend;  in match mode, Quizlet offers a ranking system (how fast they finished the matching). So students can feel more joyful and, in result, their motivation to memorize words can be raised. 
+2. What teachers/students do while using the app?
+     - Teacher's perspective
       ✅️  
        - Teachers can put students in one or separted classes where the materials are ready to use (or will be ready soon).
        - 
