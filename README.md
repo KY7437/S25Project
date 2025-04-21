@@ -107,26 +107,16 @@ Sarah spent the whole night listening and learning from the characters, promisin
        - Students can recieve selected word list from their teachers through the online classroom.
        - Students can use the most proper way to memorize those words by choosing one of 6 modes Quizlet offers (however, two of them are now need to be paid)
        - By using 'Match' function, they can play games with their friend;  in match mode, Quizlet offers a ranking system (how fast they finished the matching). So students can feel more joyful and, in result, their motivation to memorize words can be raised. 
-2. What teachers/students do while using the app?
-     - Teacher's perspective
-      ✅️  
-       - Teachers can put students in one or separted classes where the materials are ready to use (or will be ready soon).
-       - 
-      ❌️  
-       - 
-     - Student's perspective
-      ✅️  
-       - 
-      ❌️  
-       - 
+
 ### TTS
 1. App Discription
-     - Teacher's perspective
+     - Teacher's perspective   
        ✅️  
+       - Teachers do not need to read out loud the textbook passages.
        - 
       ❌️  
        - 
-     - Student's perspective
+     - Student's perspective   
      ✅️  
        - 
       ❌️  
