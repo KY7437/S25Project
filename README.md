@@ -82,20 +82,26 @@ Sarah spent the whole night listening and learning from the characters, promisin
        ✅️  
        - It allows teachers to make an online classroom within the app so that they can see their studnet's achivement.
        - The teachers can give any word-list materials to their student by adding it to the classroom.
-       - The teachres can take more materials from online archaive, which are made by other users of the app. 
+       - The teachres can take more materials from online archaive, which are made by other users of the app.
+       - It is free to sign up and set settings as 'teacher's account', which allows them to consist a class and share it with others.
+       - It is web-based, so it can cover as many students as they need to share.
+       - Not only spelling and meaning, it allows teachers to add images and pronunciations to the flashcard too.  
       ❌️  
        - The teachers have to make the list according to premade form.
        - If the teachers use material which are made by other unknown, unprofessional users, the material can be imperfect or low quality. 
      - Student's perspective
       ✅️  
        - Students can be added to the class by teachers so that they can get word lists which are proper to catch up their lessons.
-       - Studnets also can take other materials from online which made by other users.
-       - Studnets can use not only the flashcard function; they are also allowed to use 
+       - Students also can take other materials from online which made by other users.
+       - Students can use not only the flashcard function; they are also allowed to use learning tool and test functions as well.
+       - Students can also make their own word lists with their private account and free to upload it on the online archaive to share. 
       ❌️  
-       - 
+       - Those materials that are downloaded from the archaive may not be that reliable.
+       - Though most of the functions are free to use, students have to make their own account on Quizlet.
 2. What teachers/students do while using the app?
      - Teacher's perspective
       ✅️  
+       - Teachers can put students in one or separted classes where the materials are ready to use (or will be ready soon).
        - 
       ❌️  
        - 
